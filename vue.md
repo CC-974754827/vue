@@ -15,6 +15,7 @@ CDN(内容分发网络)引入
 NPM引入
 ③    $ npm install vue
 ```
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -39,4 +40,14 @@ NPM引入
     </script>
 </body>
 </html>
+```
+.vue
+```
+<template>
+</template>
+<script>
+    export default{}
+</script>
+<style lang="scss" scoped>
+</style>
 ```
